@@ -20,3 +20,10 @@ Get File List
 - `path<String>`
 - `return<Promise(String)>`
 
+### readFile(path)
+
+- `path<String>`
+- `return<Promise(String)>`
+
+
+
