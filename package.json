@@ -1,0 +1,19 @@
+{
+  "name": "node-fs-extend",
+  "version": "1.0.0",
+  "description": "\"# node-fs-promise\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "devtool test/test.js --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toxichl/node-fs-promise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toxichl/node-fs-promise/issues"
+  },
+  "homepage": "https://github.com/toxichl/node-fs-promise#readme"
+}
