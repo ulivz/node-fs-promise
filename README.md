@@ -15,12 +15,12 @@ Get File List
 - `return<Promise(String)>`
 
 
-### readFile(path)
+### writeFile(path)
 
 - `path<String>`
 - `return<Promise(String)>`
 
-### readFile(path)
+### del(path)
 
 - `path<String>`
 - `return<Promise(String)>`
