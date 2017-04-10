@@ -3,7 +3,14 @@ Extension for fs module of node.js
 
 ## API
 
-- getFileList(directory)
-	- Descirbtion: Get File List
-	- return: Priomise(fileListArray)
+### getFileList(path)
+Get File List
+
+- `path<String>`
+- `return<Promis(Array)>`
+
+### readFile(path)
+
+- `path<String>`
+- `return<Promise(String)>`
 
