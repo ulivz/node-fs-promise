@@ -26,4 +26,10 @@ Get File List
 - `return<Promise(String)>`
 
 
+### changeFile(path, handle)
+
+- `path<String>`
+- `handle<Function(String)>`
+- `return<Promise(String)>`
+
 
