@@ -13,3 +13,5 @@ function changeFile(path, handle) {
             return writeFile(path, handle(content))
         })
 }
+
+module.exports = changeFile
