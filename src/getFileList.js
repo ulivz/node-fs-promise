@@ -22,6 +22,4 @@ function getFileList(dir) {
     })
 }
 
-module.exports = {
-    getFileList
-}
+module.exports = getFileList
