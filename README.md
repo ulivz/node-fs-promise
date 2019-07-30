@@ -1,4 +1,7 @@
 # node-fs-promise
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ulivz/node-fs-promise.svg)](https://greenkeeper.io/)
+
 Extension for fs module of node.js
 
 ## API
